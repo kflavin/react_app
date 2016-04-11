@@ -1,0 +1,30 @@
+{
+  "name": "react_app",
+  "version": "1.0.0",
+  "description": "My sandbox for ReactJS.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kflavin/react_app.git"
+  },
+  "author": "",
+  "scripts": {
+      "start": "webpack-dev-server --progress"
+  },
+  "devDependencies": {
+      "babel-core": "^5.8.*",
+      "babel-loader": "^5.3.*",
+      "webpack": "^1.12.*",
+      "webpack-dev-server": "^1.10.*"
+  },
+  "dependencies": {
+      "react": "^0.13.*"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kflavin/react_app/issues"
+  },
+  "homepage": "https://github.com/kflavin/react_app#readme"
+}
