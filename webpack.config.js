@@ -1,6 +1,6 @@
 module.exports = {
     entry: [
-        './source/app.js'
+        './source/contactsapp.js'
         ],
     output: {
         path: __dirname,
